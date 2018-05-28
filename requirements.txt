@@ -1,0 +1,4 @@
+fuzzywuzzy
+selenium
+aiml
+python-aiml==0.9.1

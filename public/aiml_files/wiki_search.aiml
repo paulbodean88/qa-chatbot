@@ -1,0 +1,73 @@
+<aiml version="1.0.1" encoding="UTF-8">
+    <!-- qa.aiml -->
+
+    <category>
+        <pattern>HELLO</pattern>
+        <template>
+            SAL SAL
+        </template>
+    </category>
+
+    <category>
+        <pattern>RUN SOME TESTS</pattern>
+        <template>
+            Ok, it seems you're lazy today
+        </template>
+    </category>
+
+    <category>
+        <pattern>OPEN FIREFOX BROWSER</pattern>
+        <template>
+            On my way, wait for it!
+        </template>
+    </category>
+
+    <category>
+        <pattern>SET FULL SCREEN</pattern>
+        <template>
+            Got it!
+        </template>
+    </category>
+    <category>
+        <pattern>MINIMIZE BROWSER</pattern>
+        <template>
+            Browser minimized!!
+        </template>
+    </category>
+
+    <category>
+        <pattern>NOW SEARCH FOR DESIGN PATTERNS</pattern>
+        <template>
+            Ok, let's do this!
+        </template>
+    </category>
+
+    <category>
+        <pattern>CLICK SEARCH BUTTON</pattern>
+        <template>
+            You can find here your results!
+        </template>
+    </category>
+
+    <category>
+        <pattern>THANKS</pattern>
+        <template>
+            You're welcomed!
+        </template>
+    </category>
+
+    <category>
+        <pattern>NOW CLOSE THE BROWSER</pattern>
+        <template>
+            OK, Browser closed!
+        </template>
+    </category>
+
+    <category>
+        <pattern>BYE BYE</pattern>
+        <template>
+            Bye by mr. QA!
+        </template>
+    </category>
+
+</aiml>

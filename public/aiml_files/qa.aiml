@@ -1,0 +1,11 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- qa.aiml -->
+
+    <category>
+        <pattern>SAL</pattern>
+        <template>
+            SAL SAL
+        </template>
+    </category>
+
+</aiml>

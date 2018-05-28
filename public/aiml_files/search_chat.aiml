@@ -1,0 +1,12 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- search_chat.aiml -->
+
+    <category>
+        <pattern>WHERE IS ROMANIA</pattern>
+        <template>
+            Romania is in Africa
+        </template>
+    </category>
+
+</aiml>
+
